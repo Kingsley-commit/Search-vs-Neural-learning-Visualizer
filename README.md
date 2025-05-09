@@ -5,7 +5,7 @@
   <br />
 </p>
 
-## 🚀 Overview
+##  Overview
 
 **AI Search & Neural Network Simulator** is a Python desktop app that lets you:
 
@@ -19,13 +19,13 @@
   <img src="assets/demo.gif" alt="Demo" width="600" />
 </p>
 
-## ✨ Highlights
+##  Highlights
 
 - **Single GUI**, two modes: Search vs. Neural  
 - **Live metrics**: nodes expanded, frontier size, runtime, training loss  
 - **Adjustable**: start/goal nodes, depth limit, learning rate, epochs, hidden units  
 
-## 🛠️ Installation
+##  Installation
 
 1. **Clone**  
    ```bash
@@ -40,7 +40,7 @@
    ```bash
    pip install -r requirements.txt
 
-## ▶️ Usage
+##  Usage
 
 ### 1. Search Visualization
 
@@ -66,7 +66,7 @@ python neural_gui.py
 
 ---
 
-## 📂 Project Layout
+##  Project Layout
 
 ```
 ai-search-neural-network/
@@ -82,7 +82,7 @@ ai-search-neural-network/
 └─ README.md
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork this repo
 2. Create a branch: `git checkout -b feature/MyFeature`
@@ -90,7 +90,4 @@ ai-search-neural-network/
 4. Push: `git push origin feature/MyFeature`
 5. Open a Pull Request
 
-Released under the **MIT License**. See [LICENSE](LICENSE).
-
-> Made with ❤️ for teaching AI fundamentals
 
