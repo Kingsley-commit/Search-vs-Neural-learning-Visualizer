@@ -29,7 +29,7 @@
 
 1. **Clone**  
    ```bash
-   git clone https://github.com/yourusername/ai-search-neural-network.git
+   git clone https://github.com/Kingsley-commit/ai-search-neural-network.git
    cd ai-search-neural-network
 2. **Create & activate virtualenv (optional)**
    ```bash
